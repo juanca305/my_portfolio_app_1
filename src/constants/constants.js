@@ -52,7 +52,7 @@ export const projects = [
     image: '/images/portfolio2.png',
     tags: ['React', 'Axios', 'Material ui', 'Rapid API'],
     source: 'https://jc-myportfolio.online/',
-    visit: 'https://google.com',
+    visit: 'https://github.com/juanca305/my_portfolio_app_1',
     id: 3,
   },
 ];
@@ -66,7 +66,7 @@ export const TimeLineData = [
 ];
 
 export const myprofile = {
-  image: 'images/juanca.png',
+  image: './images/juanca.png',
   name: 'Juan Carlos Rodriguez',
   phone: '786-444-6596',
   email: 'jc.rdguez64@gmail.com'
