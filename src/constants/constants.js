@@ -66,7 +66,7 @@ export const TimeLineData = [
 ];
 
 export const myprofile = {
-  image: './images/juanca.png',
+  image: 'images/juanca.png',
   name: 'Juan Carlos Rodriguez',
   phone: '786-444-6596',
   email: 'jc.rdguez64@gmail.com'
