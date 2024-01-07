@@ -1,4 +1,25 @@
 export const projects = [
+
+  {
+    title: 'Fully Responsive E-Commerce App',
+    description: "This React JS business landing page is built from a Figma design.. Reusable functional components, CSS Flex, Animations, Gradients, Media Queries for responsiveness and Figma are some of the features...",
+      image: '/images/ecommerce.png',
+      tags: ['React', 'Javascript', 'Tailwind', 'Node'],
+    source:  'https://juanca305.github.io/hoobank_jc/',
+    visit: 'https://github.com/juanca305/hoobank_jc',
+    id: 0,
+  },
+
+  {
+    title: 'Fully Responsive Gym Exercises App',
+    description: "This React JS business landing page is built from a Figma design.. Reusable functional components, CSS Flex, Animations, Gradients, Media Queries for responsiveness and Figma are some of the features...",
+      image: '/images/girl-gym.png',
+      tags: ['React', 'Javascript', 'Tailwind', 'Node'],
+    source:  'https://juanca305.github.io/hoobank_jc/',
+    visit: 'https://github.com/juanca305/hoobank_jc',
+    id: 1,
+  },
+
   {
     title: 'Fully Responsive Modern Bank App',
     description: "This React JS business landing page is built from a Figma design.. Reusable functional components, CSS Flex, Animations, Gradients, Media Queries for responsiveness and Figma are some of the features...",
@@ -6,7 +27,7 @@ export const projects = [
       tags: ['React', 'Javascript', 'Tailwind', 'Node'],
     source:  'https://juanca305.github.io/hoobank_jc/',
     visit: 'https://github.com/juanca305/hoobank_jc',
-    id: 0,
+    id: 2,
   },
   {
     title: 'Fully Responsive Modern UI/UX App',
@@ -15,7 +36,7 @@ export const projects = [
     tags: ['React', 'Javascript', 'Figma', 'Node'],
     source: 'https://juanca305.github.io/gpt3_jc/',
     visit: 'https://github.com/juanca305/gpt3_jc',
-    id: 1,
+    id: 3,
   },
   {
     title: 'Fully Responsive Modern Restaurant',
@@ -24,7 +45,7 @@ export const projects = [
       tags: ['Html', 'CSS', 'Javascript', 'React'],
     source: 'https://juanca305.github.io/gericht_restaurant/',
     visit: 'https://github.com/juanca305/gericht_restaurant',
-    id: 2,
+    id: 4,
   },
   {
     title: 'Fully Responsive Modern Fitness App',
@@ -34,7 +55,7 @@ export const projects = [
     source: 'https://mygymapp.tech/',
     // source: 'https://juanca305.github.io/myfitnessreactapp/',
     visit: 'https://github.com/juanca305/myfitnessreactapp',
-    id: 3,
+    id: 5,
   },
   {
     title: 'Fully Responsive Modern Media App',
@@ -43,7 +64,7 @@ export const projects = [
     tags: ['React', 'Axios', 'Material ui', 'Rapid API'],
     source: 'https://jc-mediavideos.online/',
     visit: 'https://google.com',
-    id: 3,
+    id: 6,
   },
 
   {
@@ -53,7 +74,7 @@ export const projects = [
     tags: ['React', 'Axios', 'Material ui', 'Rapid API'],
     source: 'https://jc-myportfolio.online/',
     visit: 'https://github.com/juanca305/my_portfolio_app_1',
-    id: 3,
+    id: 7,
   },
 ];
 
@@ -73,49 +94,4 @@ export const myprofile = {
 }
 
 
-// export const projects = [
-//   {
-//     title: 'MERN Memories',
-//     description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-//       image: '/images/1.png',
-//       tags: ['Mongo', 'Express', 'React', 'Node'],
-//     source: 'https://google.com',
-//     visit: 'https://google.com',
-//     id: 0,
-//   },
-//   {
-//     title: 'E-Commerce',
-//     description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-//     image: '/images/2.png',
-//     tags: ['React', 'JavaScript'],
-//     source: 'https://google.com',
-//     visit: 'https://google.com',
-//     id: 1,
-//   },
-//   {
-//     title: 'WebRTC App',
-//     description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-//       image: '/images/3.jpg',
-//       tags: ['React', 'WebRTC'],
-//     source: 'https://google.com',
-//     visit: 'https://google.com',
-//     id: 2,
-//   },
-//   {
-//     title: 'Unichat',
-//     description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-//     image: '/images/4.jpg',
-//     tags: ['React', 'ChatEngine', 'Firebase'],
-//     source: 'https://google.com',
-//     visit: 'https://google.com',
-//     id: 3,
-//   },
-// ];
 
-// export const TimeLineData = [
-//   { year: 2017, text: 'Started my journey', },
-//   { year: 2018, text: 'Worked as a freelance developer', },
-//   { year: 2019, text: 'Founded JavaScript Mastery', },
-//   { year: 2020, text: 'Shared my projects with the world', },
-//   { year: 2021, text: 'Started my own platform', },
-// ];
