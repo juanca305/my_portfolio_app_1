@@ -17,10 +17,10 @@ const Hero = (props) => (
         My Personal Portfolio    
       </SectionTitle>
       <SectionText>
-        My name is Juan Carlos Rodriguez. I was born in Havana, Cuba (10/23/1964). I graduated from Computer Science in CUJAE (1988).
-        I've been working with several technologies like Asp.Net and C#. Lately my passion for frontend has increased a lot. 
-        HTML, CSS, Javascript, React JS, Node, Figma, Tailwind and API are some of my more recent skills. 
-        In this portfolio I want to show some projects I've made.
+        My name is Juan Carlos Rodriguez and I was born in Havana, Cuba. I graduated from Computer Science in CUJAE (1988).
+        In the first years of my work career, I've been working with several technologies like Asp.Net and C#. Lately my passion for frontend has increased a lot. 
+        <span style={{color: '#fff', fontWeight: '400'}}> Html, CSS, Javascript, React JS, Node, Next.JS, Figma, Tailwind, Sanity, Stripe and API Calls</span> are some of my more recent skills. 
+        In this portfolio I want to show some of my latest Frontend projects.
       </SectionText>
       <Link legacyBehavior href="#tech">
             <Button >Learn More</Button>      

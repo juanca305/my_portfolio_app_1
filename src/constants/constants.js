@@ -2,21 +2,21 @@ export const projects = [
 
   {
     title: 'Fully Responsive E-Commerce App',
-    description: "This React JS business landing page is built from a Figma design.. Reusable functional components, CSS Flex, Animations, Gradients, Media Queries for responsiveness and Figma are some of the features...",
+    description: "This is an e-commerce app with complete functionality shopping cart and payment gateaway. I use React.js, Next.js, Sanity and Stripe among other features.",
       image: '/images/ecommerce.png',
-      tags: ['React', 'Javascript', 'Tailwind', 'Node'],
-    source:  'https://juanca305.github.io/hoobank_jc/',
-    visit: 'https://github.com/juanca305/hoobank_jc',
+      tags: ['React', 'Next', 'Javascript', 'Sanity', 'Node', 'Stripe'],
+    source: 'https://ecommerce-sanity-stripe-nine-orpin.vercel.app/',
+    visit: 'https:github.com/juanca305/ecommerce_sanity_stripe',  
     id: 0,
   },
 
   {
     title: 'Fully Responsive Gym Exercises App',
-    description: "This React JS business landing page is built from a Figma design.. Reusable functional components, CSS Flex, Animations, Gradients, Media Queries for responsiveness and Figma are some of the features...",
+    description: "React JS fitness website. I use reusable react components, react router dom version 6, React Hooks (useState, UseEffect), Material UI, Tailwind, RapidAPI.",
       image: '/images/girl-gym.png',
-      tags: ['React', 'Javascript', 'Tailwind', 'Node'],
-    source:  'https://juanca305.github.io/hoobank_jc/',
-    visit: 'https://github.com/juanca305/hoobank_jc',
+      tags: ['React','Tailwind', 'Node', 'Material UI', 'RapidAPI'],
+    source:  'https://jc-mygym-app.website/',
+    visit: 'https://github.com/juanca305/gym_exercises',
     id: 1,
   },
 
