@@ -69,7 +69,7 @@ export const projects = [
 
   {
     title: 'Fully Responsive Portfolio App',
-    description: "This project in React JS contains a recopilation of all the projects  I've built until now. I used style components this time. Reusable React components, react router dom 6 and react hooks are used as well." ,
+    description: "This project in Next.JS, contains a recopilation of all the projects  I've built until now. I used style components this time. Reusable React components, react router dom 6 and react hooks are used as well." ,
     image: '/images/portfolio2.png',
     tags: ['React', 'Axios', 'Material ui', 'Rapid API'],
     source: 'https://jc-myportfolio.online/',
