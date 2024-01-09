@@ -83,7 +83,7 @@ export const TimeLineData = [
   { year: 2018, text: 'Worked as a freelance developer, html, Css, Javascript, JQuery'},
   { year: 2019, text: 'Html5, Css3, Git, Boostrap'},
   { year: 2022, text: 'React JS, Javascript ES6, Node, Tailwind, Figma'},
-  { year: 2023, text: 'React JS, Sanity, Stripe, RapidAPI'},
+  { year: 2023, text: 'Node, Sanity, Stripe, RapidAPI, Next.JS'},
 ];
 
 export const myprofile = {
