@@ -2,7 +2,7 @@ export const projects = [
 
   {
     title: 'Full Stack E-Commerce App',
-    description: "This is an full stack e-commerce app with complete functionality shopping cart and payment gateaway. I use React.js, Next.js, Prisma, Mongodb, Firebase (images storage), TypeScript, Tailwind and Stripe. It has Login/Register and Reviews features. (03/27/2024)",
+    description: "Full stack e-commerce app with complete functionality. I use React.js, Next.js, Prisma, Mongodb, Firebase, TypeScript, Tailwind and Stripe. It has Login/Register and Reviews features. (03/27/2024)",
       image: '/images/chao1.png',
       tags: ['React', 'Next', 'Mongodb', 'Prisma', 'Firebase', 'Node', 'Stripe'],
     source: 'https://juanca-shop.vercel.app/',
