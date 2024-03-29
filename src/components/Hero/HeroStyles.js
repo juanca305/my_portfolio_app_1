@@ -130,6 +130,10 @@ padding-bottom: 20px;
 @media ${(props) => props.theme.breakpoints.md} {
   padding-bottom: 0px;
 }
+
+@media ${(props) => props.theme.breakpoints.sm} {
+   padding-left: 1.75px;  
+}
 `;
 
 
