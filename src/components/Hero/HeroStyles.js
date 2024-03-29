@@ -61,7 +61,7 @@ export const BlogCard2 = styled.div`
   }
 
   @media ${(props) => props.theme.breakpoints.sm} {
-    width: 85%;
+    width: 60%;
     //margin: auto;
     height: auto;
     margin-bottom: 20px;
@@ -98,8 +98,8 @@ export const LinkItem2 = styled.a`
 	}
 
 	@media ${props => props.theme.breakpoints.sm} {
-		font-size: 14px;
-		line-height: 18px;
+		font-size: 12px;
+		line-height: 14px;
 		margin-bottom: 10px;
 		display: flex;
 		align-items: flex-start;

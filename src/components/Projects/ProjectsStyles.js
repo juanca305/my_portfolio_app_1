@@ -106,6 +106,7 @@ export const CardInfo = styled.p`
   text-align: justify;
   @media ${(props) => props.theme.breakpoints.sm} {
     padding:0.5rem  1.2rem;
+    font-size: 1.4rem;
 }
 `;
 
@@ -140,14 +141,21 @@ transition: 0.5s;
 export const TagList = styled.ul`
 display: flex;
 justify-content: space-around;
+
 padding: 2rem;
 
 @media ${(props) => props.theme.breakpoints.sm} {
   padding: 1.3rem;
+  
 }
-`
+`;
+
 export const Tag = styled.li`
 // color: #d8bfbf;
 color: #9cc9e3;
 font-size: 1.5rem;
-`
+@media ${(props) => props.theme.breakpoints.sm} {
+  font-size: 1.25rem;
+}
+`;
+

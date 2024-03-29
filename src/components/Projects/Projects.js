@@ -17,13 +17,14 @@ const Projects = () => (
           <Hr />
         </TitleContent>
         <CardInfo>{description}</CardInfo>
-        <div>
+        <div>  
           <TitleContent>Stack</TitleContent>
-          <TagList>
-            {tags.map((tag, i) => (
-              <Tag key={i}>{tag}</Tag>
-            ))}
-          </TagList>
+          
+            <TagList>
+              {tags.map((tag, i) => (   
+                    <Tag key={i}>{tag}</Tag>       
+              ))}
+            </TagList>  
         </div>
        
         <div className='link-buttons'>

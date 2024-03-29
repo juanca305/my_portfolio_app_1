@@ -4,7 +4,7 @@ export const projects = [
     title: 'Full Stack E-Commerce App',
     description: "Full stack e-commerce app with complete functionality. I use React.js, Next.js, Prisma, Mongodb, Firebase, TypeScript, Tailwind and Stripe. It has Login/Register and Reviews features. (03/27/2024)",
       image: '/images/chao1.png',
-      tags: ['React', 'Next', 'Mongodb', 'Prisma', 'Firebase', 'Node', 'Stripe'],
+      tags: ['React', 'Next', 'Mongodb', 'Prisma', 'Node', 'Stripe'],
     source: 'https://juanca-shop.vercel.app/',
     visit: 'https://github.com/juanca305/ecommerce_prisma_mongodb_stripe',  
     id: 0,
