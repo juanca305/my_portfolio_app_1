@@ -61,7 +61,7 @@ export const BlogCard2 = styled.div`
   }
 
   @media ${(props) => props.theme.breakpoints.sm} {
-    width: 60%;
+    width: 75%;
     //margin: auto;
     height: auto;
     margin-bottom: 20px;
