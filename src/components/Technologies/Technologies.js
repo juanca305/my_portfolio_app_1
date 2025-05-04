@@ -17,7 +17,7 @@ const Technologies = () =>  (
       <ListContainer>
         <ListTitle>Front-End</ListTitle>
         <ListParagraph>
-          Experience with Html, CSS, Javascript & React.js
+          Experience with Html, CSS, Javascript, Tailwind CSS,  React, Redux ToolKit, Next.js
         </ListParagraph>
       </ListContainer>
     </ListItem>
@@ -27,7 +27,7 @@ const Technologies = () =>  (
       <ListContainer>
         <ListTitle>Back-End</ListTitle>
         <ListParagraph>
-          Experience with <br />Node, API and Databases
+          Experience with Node, Express, MERN Stack, Mongoose, JWT, REST APIs and Databases
         </ListParagraph>
       </ListContainer>
     </ListItem>

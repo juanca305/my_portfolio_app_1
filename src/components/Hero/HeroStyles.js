@@ -116,8 +116,10 @@ export const Img2 = styled.img`
   @media ${(props) => props.theme.breakpoints.sm} {
     width: auto;
     height : auto;
-    max-height: 100%;
-    max-width: 100%;
+    max-height: 60%;
+    max-width: 60%;
+    border-radius: 50%;
+    margin-top: 20px;
   }
 `;
 

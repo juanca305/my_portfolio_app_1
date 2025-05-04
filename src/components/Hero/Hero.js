@@ -19,7 +19,7 @@ const Hero = (props) => (
       <SectionText>
         My name is Juan Carlos Rodriguez and I am from Cuba. Nowaday I'm living in Miami, USA. I graduated from Computer Science in CUJAE University in La Habana, Cuba in 1988.
         In the first years of my work career I worked with technologies like Asp.Net and C#. Lately, my passion for frontend has increased a lot. 
-        <span style={{color: '#fff', fontWeight: '400'}}> Html, CSS, Javascript, React JS, Node, Next.JS, Figma, Tailwind, Mongodb, Sanity, Stripe and API Calls</span> are some of my more recent skills. 
+        <span style={{color: '#fff', fontWeight: '400'}}> HTML, CSS, Javascript, React, Node, Express, Mongodb, Next.JS, Figma, Tailwind, , Sanity, Stripe and API Calls</span> are some of my more recent skills. 
         In this portfolio I want to show some of my latest Frontend projects.
       </SectionText>
       <Link legacyBehavior href="#tech">

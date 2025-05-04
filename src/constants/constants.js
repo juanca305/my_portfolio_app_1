@@ -1,22 +1,22 @@
 export const projects = [
 
   {
+    title: 'Dave Gray MERN Course',
+    description: "Complete Full Stack MERN Project. Redux Toolkit, user auth with JWT and bcrypt, API: https://github.com/juanca305/juanca-technotes-api, endpoints with Express and MongoDB/Mongoose, secure routes, role-based access control, and API error handling. Deployed in Render.com. (05/04/2025)",
+      image: '/images/Dave_Gray_MERN.png',
+      tags: ['React', 'Mongodb', 'Node', 'Express'],
+    source: 'https://technotes-fw2e.onrender.com/',
+    visit: 'https://github.com/juanca305/technotes',  
+    id: 0,
+  },
+
+  {
     title: 'Full Stack MERN Social App',
     description: "Full stack MERN App. FRONTEND: REACT ROUTER (Navigation), FORMIK + YUP (Form Validation), REDUX TOOLKIT (State). Light/Dark mode. BACKEND: Node.js, Express.js, Mongoose, JWT (Authentication). (10/04/2024)",
       image: '/images/juanca_social1.png',
       tags: ['MERN', 'REDUX TOOLKIT', 'JWT', 'MUI'],
     source: 'https://juanca-mern-social.com/',
     visit: 'https://github.com/juanca305/Juanca_MERN_Social_V2',  
-    id: 0,
-  },
-
-  {
-    title: 'Full Stack MERN Social App',
-    description: "Full stack MERN (with MUI) social app completely functional. Some of the features are:  Google and JWT Authentication, Pagination, Likes, CRUD, Filter and Search functionality and Light/Dark mode. (06/30/2024)",
-      image: '/images/Memories1.png',
-      tags: ['React', 'Mongodb', 'Node', 'Express', 'MUI'],
-    source: 'https://juanca-memories.xyz/',
-    visit: 'https://github.com/juanca305/juanca_memories',  
     id: 1,
   },
 
@@ -27,7 +27,7 @@ export const projects = [
       tags: ['React', 'Mongodb', 'Node', 'Express', 'MUI'],
     source: 'https://juanca-memories.xyz/',
     visit: 'https://github.com/juanca305/juanca_memories',  
-    id: 1,
+    id: 2,
   },
 
   {
@@ -37,7 +37,7 @@ export const projects = [
       tags: ['React', 'Next', 'Mongodb', 'Prisma', 'Node', 'Stripe'],
     source: 'https://juanca-shop.vercel.app/',
     visit: 'https://github.com/juanca305/ecommerce_prisma_mongodb_stripe',  
-    id: 1,
+    id: 3,
   },
 
   {
@@ -47,7 +47,7 @@ export const projects = [
       tags: ['React', 'Next', 'Javascript', 'Sanity', 'Node', 'Stripe'],
     source: 'https://ecommerce-sanity-stripe-nine-orpin.vercel.app/',
     visit: 'https:github.com/juanca305/ecommerce_sanity_stripe',  
-    id: 2,
+    id: 4,
   },
 
   {
@@ -57,7 +57,7 @@ export const projects = [
       tags: ['React','Tailwind', 'Node', 'Material UI', 'RapidAPI'],
     source:  'https://jc-mygym-app.website/',
     visit: 'https://github.com/juanca305/gym_exercises',
-    id: 3,
+    id: 5,
   },
 
   {
@@ -67,7 +67,7 @@ export const projects = [
       tags: ['React', 'Javascript', 'Tailwind', 'Node'],
     source:  'https://juanca305.github.io/hoobank_jc/',
     visit: 'https://github.com/juanca305/hoobank_jc',
-    id: 4,
+    id: 6,
   },
   {
     title: 'Fully Responsive Modern UI/UX App',
@@ -76,7 +76,7 @@ export const projects = [
     tags: ['React', 'Javascript', 'Figma', 'Node'],
     source: 'https://juanca305.github.io/gpt3_jc/',
     visit: 'https://github.com/juanca305/gpt3_jc',
-    id: 5,
+    id: 7,
   },
   {
     title: 'Fully Responsive Modern Restaurant',
@@ -85,7 +85,7 @@ export const projects = [
       tags: ['Html', 'CSS', 'Javascript', 'React'],
     source: 'https://juanca305.github.io/gericht_restaurant/',
     visit: 'https://github.com/juanca305/gericht_restaurant',
-    id: 6,
+    id: 8,
   },
   {
     title: 'Fully Responsive Modern Fitness App',
@@ -95,7 +95,7 @@ export const projects = [
     source: 'https://mygymapp.tech/',
     // source: 'https://juanca305.github.io/myfitnessreactapp/',
     visit: 'https://github.com/juanca305/myfitnessreactapp',
-    id: 7,
+    id: 9,
   },
   {
     title: 'Fully Responsive Modern Media App',
@@ -104,7 +104,7 @@ export const projects = [
     tags: ['React', 'Axios', 'Material ui', 'Rapid API'],
     source: 'https://jc-mediavideos.online/',
     visit: 'https://google.com',
-    id: 8,
+    id: 10,
   },
 
   {
@@ -114,7 +114,7 @@ export const projects = [
     tags: ['React', 'Axios', 'Material ui', 'Rapid API'],
     source: 'https://jc-myportfolio.online/',
     visit: 'https://github.com/juanca305/my_portfolio_app_1',
-    id: 9,
+    id: 11,
   },
 ];
 
@@ -125,6 +125,7 @@ export const TimeLineData = [
   { year: 2022, text: 'React JS, Javascript ES6, Node, Tailwind, Figma'},
   { year: 2023, text: 'Node, Sanity, Stripe, RapidAPI, Next.JS'},
   { year: 2024, text: 'Prisma, Mongodb, Firebase, TypeScript'},
+  { year: 2025, text: 'Redux ToolKit, Redux ToolKit Query, JWT/Auth'},
 ];
 
 export const myprofile = {
