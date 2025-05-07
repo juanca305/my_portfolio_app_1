@@ -1,13 +1,23 @@
 export const projects = [
 
   {
+    title: 'Full Stack OpenAI Image Generation',
+    description: "Complete responsive Full Stack AI MERN Project with Tailwind CSS, OpenAI DALL - E model and Cloudinary. Deployed in Render.com. (05/07/2025). Backend: 'https://juanca-dall-e-app.onrender.com/'",
+      image: '/images/Dave_Gray_MERN.png',
+      tags: ['MERN', 'OpenAI', 'Cloudinary', 'TailwindCSS'],
+    source: 'https://juanca-dall-e-app-1-frontend.onrender.com/',
+    visit: 'https://github.com/juanca305/juanca_dall-E_app',  
+    id: 0,
+  },
+
+  {
     title: 'Dave Gray MERN Course',
     description: "Complete Full Stack MERN Project. Redux Toolkit, user auth with JWT and bcrypt, API: https://github.com/juanca305/juanca-technotes-api, endpoints with Express and MongoDB/Mongoose, secure routes, role-based access control, and API error handling. Deployed in Render.com. (05/04/2025)",
       image: '/images/Dave_Gray_MERN.png',
       tags: ['React', 'Mongodb', 'Node', 'Express'],
     source: 'https://technotes-fw2e.onrender.com/',
     visit: 'https://github.com/juanca305/technotes',  
-    id: 0,
+    id: 1,
   },
 
   {
@@ -17,7 +27,7 @@ export const projects = [
       tags: ['MERN', 'REDUX TOOLKIT', 'JWT', 'MUI'],
     source: 'https://juanca-mern-social.com/',
     visit: 'https://github.com/juanca305/Juanca_MERN_Social_V2',  
-    id: 1,
+    id: 2,
   },
 
   {
@@ -27,7 +37,7 @@ export const projects = [
       tags: ['React', 'Mongodb', 'Node', 'Express', 'MUI'],
     source: 'https://juanca-memories.xyz/',
     visit: 'https://github.com/juanca305/juanca_memories',  
-    id: 2,
+    id: 3,
   },
 
   {
@@ -37,7 +47,7 @@ export const projects = [
       tags: ['React', 'Next', 'Mongodb', 'Prisma', 'Node', 'Stripe'],
     source: 'https://juanca-shop.vercel.app/',
     visit: 'https://github.com/juanca305/ecommerce_prisma_mongodb_stripe',  
-    id: 3,
+    id: 4,
   },
 
   {
@@ -47,7 +57,7 @@ export const projects = [
       tags: ['React', 'Next', 'Javascript', 'Sanity', 'Node', 'Stripe'],
     source: 'https://ecommerce-sanity-stripe-nine-orpin.vercel.app/',
     visit: 'https:github.com/juanca305/ecommerce_sanity_stripe',  
-    id: 4,
+    id: 5,
   },
 
   {
@@ -57,7 +67,7 @@ export const projects = [
       tags: ['React','Tailwind', 'Node', 'Material UI', 'RapidAPI'],
     source:  'https://jc-mygym-app.website/',
     visit: 'https://github.com/juanca305/gym_exercises',
-    id: 5,
+    id: 6,
   },
 
   {
@@ -67,7 +77,7 @@ export const projects = [
       tags: ['React', 'Javascript', 'Tailwind', 'Node'],
     source:  'https://juanca305.github.io/hoobank_jc/',
     visit: 'https://github.com/juanca305/hoobank_jc',
-    id: 6,
+    id: 7,
   },
   {
     title: 'Fully Responsive Modern UI/UX App',
@@ -76,7 +86,7 @@ export const projects = [
     tags: ['React', 'Javascript', 'Figma', 'Node'],
     source: 'https://juanca305.github.io/gpt3_jc/',
     visit: 'https://github.com/juanca305/gpt3_jc',
-    id: 7,
+    id: 8,
   },
   {
     title: 'Fully Responsive Modern Restaurant',
@@ -85,7 +95,7 @@ export const projects = [
       tags: ['Html', 'CSS', 'Javascript', 'React'],
     source: 'https://juanca305.github.io/gericht_restaurant/',
     visit: 'https://github.com/juanca305/gericht_restaurant',
-    id: 8,
+    id: 9,
   },
   {
     title: 'Fully Responsive Modern Fitness App',
@@ -95,7 +105,7 @@ export const projects = [
     source: 'https://mygymapp.tech/',
     // source: 'https://juanca305.github.io/myfitnessreactapp/',
     visit: 'https://github.com/juanca305/myfitnessreactapp',
-    id: 9,
+    id: 10,
   },
   {
     title: 'Fully Responsive Modern Media App',
@@ -104,7 +114,7 @@ export const projects = [
     tags: ['React', 'Axios', 'Material ui', 'Rapid API'],
     source: 'https://jc-mediavideos.online/',
     visit: 'https://google.com',
-    id: 10,
+    id: 11,
   },
 
   {
@@ -114,7 +124,7 @@ export const projects = [
     tags: ['React', 'Axios', 'Material ui', 'Rapid API'],
     source: 'https://jc-myportfolio.online/',
     visit: 'https://github.com/juanca305/my_portfolio_app_1',
-    id: 11,
+    id: 12,
   },
 ];
 
