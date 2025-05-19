@@ -76,7 +76,8 @@ export const projects = [
       image: '/images/hoobank.png',
       tags: ['React', 'Javascript', 'Tailwind', 'Node'],
     source:  'https://juanca305.github.io/hoobank_jc/',
-    visit: 'https://github.com/juanca305/hoobank_jc',
+    //visit: 'https://github.com/juanca305/hoobank_jc',
+    visit: 'https://hoobank-jc.onrender.com',
     id: 7,
   },
   {
