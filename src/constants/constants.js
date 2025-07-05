@@ -114,7 +114,7 @@ export const projects = [
     image: '/images/youtube.png',
     tags: ['React', 'Axios', 'Material ui', 'Rapid API'],
     source: 'https://jc-mediavideos.online/',
-    visit: 'https://google.com',
+    visit: 'https://github.com/juanca305/youtube_myclone',
     id: 11,
   },
 
